@@ -1,4 +1,4 @@
-public class operadoresaula2 {
+public class OperadoresAula2 {
     public static void main(String[] args) {
 
         String nomeCompleto = "Bruno" + "Santos";
