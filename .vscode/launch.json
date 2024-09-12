@@ -1,0 +1,111 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ContaTerminal",
+            "request": "launch",
+            "mainClass": "ContaTerminal",
+            "projectName": "Projetos-Java_894a36fe"
+        },
+        {
+            "type": "java",
+            "name": "Testes",
+            "request": "launch",
+            "mainClass": "Testes",
+            "projectName": "Projetos-Java_894a36fe"
+        },
+        {
+            "type": "java",
+            "name": "AboutMee",
+            "request": "launch",
+            "mainClass": "AboutMee",
+            "projectName": "Projetos-Java_894a36fe"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "Usuario",
+            "projectName": "Projetos-Java_894a36fe"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "projectName": "Projetos-Java_894a36fe"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Projetos-Java_894a36fe"
+        },
+        {
+            "type": "java",
+            "name": "Teste",
+            "request": "launch",
+            "mainClass": "Metodos.src.Teste",
+            "projectName": "Projetos-Java_894a36fe"
+        },
+        {
+            "type": "java",
+            "name": "VerificacaoIdade",
+            "request": "launch",
+            "mainClass": "Metodos.src.VerificacaoIdade",
+            "projectName": "Projetos-Java_894a36fe"
+        },
+        {
+            "type": "java",
+            "name": "Testes",
+            "request": "launch",
+            "mainClass": "Metodos.src.Testes",
+            "projectName": "Projetos-Java_894a36fe"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Aula3",
+            "request": "launch",
+            "mainClass": "Aula3",
+            "projectName": "Projetos-Java_894a36fe"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "Metodos.src.AboutMe",
+            "projectName": "Projetos-Java_894a36fe",
+            "args": [
+                "Bruno",
+                "Santos",
+                "19",
+                "1.60"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "Metodos.src.Usuario",
+            "projectName": "Projetos-Java_894a36fe"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresAula2",
+            "request": "launch",
+            "mainClass": "OperadoresAula2",
+            "projectName": "Projetos-Java_894a36fe"
+        }
+    ]
+}
